@@ -1,0 +1,29 @@
+_repo: A-Battle-of-the-Books-recorded-by-an-unknown-writer-for-the-use-of-authors-and-publishers-To-__54380
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hamilton, Gail
+    alias: Dodge, Mary Abigail
+    birthdate: 1833
+    deathdate: 1896
+    gutenberg_agent_id: '886'
+    url: http://www.gutenberg.org/2009/agents/886
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Abigail_Dodge
+description: ''
+gutenberg_issued: '2017-03-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54380'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'A Battle of the Books, recorded by an unknown writer for the use of authors
+  and publishers
+
+  To the first for doctrine, to the second for reproof, to
+
+  both for correction and for instruction in righteousness'
+url: http://www.gutenberg.org/ebooks/54380
